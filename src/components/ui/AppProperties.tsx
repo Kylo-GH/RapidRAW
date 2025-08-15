@@ -88,6 +88,7 @@ export enum Theme {
   MutedGreen = 'muted-green',
   Sepia = 'sepia',
   Snow = 'snow',
+  GruvboxMaterial = 'gruvbox-material',
 }
 
 export enum ThumbnailAspectRatio {
