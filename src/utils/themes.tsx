@@ -163,7 +163,7 @@ export const THEMES: Array<ThemeProps> = [
   {
     id: Theme.GruvMat,
     name: 'Gruvbox Material',
-    splashImage: '/splash-arctic.jpg',
+    splashImage: '/splash-gruvmat.jpg',
     cssVariables: {
       '--color-bg-primary-rgb': '50, 48, 47',
       '--opacity-bg-primary': '1.0',
