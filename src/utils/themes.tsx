@@ -160,6 +160,25 @@ export const THEMES: Array<ThemeProps> = [
       '--color-hover-color': '100 120 140',
     },
   },
+  {
+    id: Theme.GruvMat,
+    name: 'Gruvbox Material',
+    splashImage: '/splash-arctic.jpg',
+    cssVariables: {
+      '--color-bg-primary-rgb': '50, 48, 47',
+      '--opacity-bg-primary': '1.0',
+      '--color-bg-secondary-rgb': '27, 27, 27',
+      '--opacity-bg-secondary': '1.0',
+      '--color-surface': '132 144 86',
+      '--color-card-active': '27 27 27',
+      '--color-button-text': '212 190 152',
+      '--color-text-primary': '212 190 152',
+      '--color-text-secondary': '125 174 163',
+      '--color-accent': '132 144 86',
+      '--color-border-color': '166 110 125',
+      '--color-hover-color': '211 134 155',
+    },
+  },
 ];
 
 export const DEFAULT_THEME_ID = Theme.Dark;
